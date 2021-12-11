@@ -19,11 +19,12 @@ To install the program, download the git repo and run the Jupyter notebook
 
 ## Results
 <br/>
-There are three models that are used for analysis
-* Model  uses loss function Binary Crossentropy with 50 epochs and has a loss rate of 55% and accuracy of 73%.
-* Alternate Model 1 uses loss function Mean Squared Error with 50 epochs and has a loss rate of 18.5% and accuracy of 73%
-* Alternate Model 2 uses loss function of Mean Square Logarithmic Eror with 25 epochs and has a loss rate of 9% and accuracy of 73%
+There are three models that are used for analysis. <br/>
+* Model  uses loss function Binary Crossentropy with 50 epochs and has a loss rate of 55% and accuracy of 73%. <br/>
+* Alternate Model 1 uses loss function Mean Squared Error with 50 epochs and has a loss rate of 18.5% and accuracy of 73% <br/>
+* Alternate Model 2 uses loss function of Mean Square Logarithmic Eror with 25 epochs and has a loss rate of 9% and accuracy of 73% <br/>
 <br/>
+
 | Name  |  Loss Function |  Epochs |  Loss Rate |  Accuracy |
 |---|---|---|---|---|
 |  Model | Binary Crossentropy  | 50  | 55%  | 73%  |
