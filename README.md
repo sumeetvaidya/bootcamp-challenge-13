@@ -25,11 +25,11 @@ There are three models that are used for analysis. <br/>
 * Alternate Model 2 uses loss function of Mean Square Logarithmic Eror with 25 epochs and has a loss rate of 9% and accuracy of 73% <br/>
 <br/>
 
-| Name  |  Loss Function |  Epochs |  Loss Rate |  Accuracy |
-|---|---|---|---|---|
-|  Model | Binary Crossentropy  | 50  | 55%  | 73%  |
-|  Alternate Model 1 | Mean Squared Error  | 50  | 18.5%  | 73%  |
-|  Alternate Model 2 | Mean Square Logarithmic Eror  | 25  | 9%  | 73%  |
+| Name  |  Loss Function |  Epochs |  Number of Layers |  Loss Rate |  Accuracy |
+|---|---|---|---|---|---|
+|  Model | Binary Crossentropy  | 50  | 3  | 55%  | 73%  |
+|  Alternate Model 1 | Mean Squared Error  | 50  | 2  | 18.5%  | 73%  |
+|  Alternate Model 2 | Mean Square Logarithmic Eror  | 25  | 2  | 9%  | 73%  |
 <br/>
 
 ## Contributors 
